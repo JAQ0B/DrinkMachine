@@ -87,7 +87,7 @@ As a last resort (with time running out), I wrote a full Arduino implementation 
 
 ## 🧪 Demo
 
-![Machine Running GIF](Assets/Drinkmachine.gif)  
+![Machine Running GIF](Assets/DrinkMachine.gif)  
 *A short GIF showing the machine in action*
 
 ---
