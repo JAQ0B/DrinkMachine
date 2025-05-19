@@ -1,6 +1,6 @@
 # 🍹 Embedded Drinks Machine – Final Exam Project (Mekatronik A)
 
-![Drinks Machine Photo](assets/machine_photo.jpg)  
+![Drinks Machine Photo](assets/DrinkMachine.jpg)  
 *Final hardware prototype (steel frame, rotating top, valves, and LCD interface)*
 
 ---
@@ -87,7 +87,7 @@ As a last resort (with time running out), I wrote a full Arduino implementation 
 
 ## 🧪 Demo
 
-![Machine Running GIF](assets/drinks_machine_demo.gif)  
+![Machine Running GIF](assets/Drinkmachine.gif)  
 *A short GIF showing the machine in action*
 
 ---
@@ -96,7 +96,7 @@ As a last resort (with time running out), I wrote a full Arduino implementation 
 
 Our full 140+ page report includes hardware design, flowcharts, full schematics, and deep analysis of failures.
 
-📄 [Read the full report (PDF)](assets/drinks_machine_demo.gif)  
+📄 [Read the full report (PDF)](assets/MekatronikA)  
 
 ---
 
