@@ -1,6 +1,6 @@
 # 🍹 Embedded Drinks Machine – Final Exam Project (Mekatronik A)
 
-![Drinks Machine Photo](assets/DrinkMachine.jpg)  
+![Drinks Machine Photo](assets/DrinkMachine.png)  
 *Final hardware prototype (steel frame, rotating top, valves, and LCD interface)*
 
 ---
@@ -16,7 +16,7 @@ This was my final exam project for *Mekatronik A*, built in a team. The goal was
 
 We were required to write all PIC logic in **Assembly**, as our professor did not allow C for embedded development. The Arduino interface was written in C++ using the Arduino IDE. Communication between the two was at the core of the system — and where the biggest lessons came from.
 
----
+--- 
 
 ## ⚙️ Project Architecture
 
@@ -96,7 +96,7 @@ As a last resort (with time running out), I wrote a full Arduino implementation 
 
 Our full 140+ page report includes hardware design, flowcharts, full schematics, and deep analysis of failures.
 
-📄 [Read the full report (PDF)](assets/MekatronikA)  
+📄 [Read the full report (PDF)](assets/Eksamensprojekt_Mekatronik.pdf)  
 
 ---
 
